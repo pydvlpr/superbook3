@@ -1,0 +1,30 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+django = "*"
+django-crispy-forms = "*"
+django-authtools = "*"
+django-braces = "*"
+django-environ = "*"
+django-widget-tweaks = "*"
+djangorestframework = "*"
+gunicorn = "*"
+python-decouple = "*"
+whitenoise = "*"
+"psycopg2-binary" = "*"
+coreapi = "*"
+django-heroku = "*"
+
+
+[dev-packages]
+
+django-debug-toolbar = "*"
+django-extensions = "*"
+pytest = "*"
+pudb = "*"

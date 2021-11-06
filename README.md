@@ -1,3 +1,15 @@
+# A Note to start with
+
+This is a fork of the the DjangoPatternsBook/superbook2 - Repository
+at https://github.com/DjangoPatternsBook/superbook2.git
+
+Over the time the original version had some dependency problems.
+This I try to solve in this repo during my studies of the book.
+
+Thanks a lot to Arun for his amazing work!
+
+```
+
 # SuperBook
 
 SuperBook is a social network for superheroes built with [Python][0] using the [Django Web Framework][1]. This is an example project accompanying the book "Django Design Patterns and Best Practices" by Arun Ravindran.
@@ -11,7 +23,7 @@ SuperBook is a social network for superheroes built with [Python][0] using the [
 Git clone to a local directory:
 
 ```
-git clone https://github.com/DjangoPatternsBook/superbook2.git
+git clone https://github.com/pydvlpr/superbook3.git
 ```
 
 [Install pipenv system-wide or locally](https://docs.pipenv.org/) but outside a virtualenv. Alternatively, follow these commands:
@@ -23,7 +35,7 @@ $ pip install pipenv
 
 Now go to the project directory and install the dependencies:
 ```
-$ cd superbook2
+$ cd superbook3
 $ pipenv install --dev
 ```
 

@@ -8,8 +8,6 @@ This I try to solve in this repo during my studies of the book.
 
 Thanks a lot to Arun for his amazing work!
 
-```
-
 # SuperBook
 
 SuperBook is a social network for superheroes built with [Python][0] using the [Django Web Framework][1]. This is an example project accompanying the book "Django Design Patterns and Best Practices" by Arun Ravindran.
